@@ -1,0 +1,18 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "discord.js-slasher": "^0.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
